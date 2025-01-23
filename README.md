@@ -1,0 +1,1 @@
+# Equalizer-Audio-Dinamis-Berbasis-MATLAB
