@@ -1,4 +1,4 @@
-Berikut deskripsi menarik dan profesional untuk repositori **Equalizer-Audio-Dinamis-Berbasis-MATLAB** di GitHub:  
+
 
 ---
 
@@ -21,7 +21,7 @@ Selamat datang di **Equalizer Audio Dinamis Berbasis MATLAB**! 🎧 Repositori i
 ## 🚀 **Cara Menjalankan**  
 1️⃣ **Clone repositori ini ke lokal Anda**  
    ```bash
-   git clone https://github.com/Equalizer-Audio-Dinamis-Berbasis-MATLAB/Equalizer-Audio-Dinamis-MATLAB.git
+   git clone https://github.com/AbdulFatahAmrulloh/Equalizer-Audio-Dinamis-MATLAB.git
    ```  
 2️⃣ **Buka MATLAB dan jalankan skrip utama**  
    ```matlab
@@ -42,4 +42,4 @@ Kami terbuka untuk pengembangan lebih lanjut! Jika Anda memiliki ide atau ingin 
 
 ---
 
-Pastikan Anda mengganti `https://github.com/Equalizer-Audio-Dinamis-Berbasis-MATLAB/Equalizer-Audio-Dinamis-MATLAB.git` dengan URL repositori yang sesuai. Semoga sukses dengan proyek equalizer audio ini! 🚀🎧
+Pastikan Anda mengganti `https://github.com/AbdulFatahAmrulloh/Equalizer-Audio-Dinamis-MATLAB.git` dengan URL repositori yang sesuai. Semoga sukses dengan proyek equalizer audio ini! 🚀🎧
